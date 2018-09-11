@@ -1,12 +1,12 @@
 # IOS-Get-Info-Device
 
-//
-//  Device.swift
-//  imHome
-//
-//  Created by Khiem ND on 2/9/18. Updated on 6/20/15.
-//  Copyright (c) 2015 Alpha Labs, Inc. All rights reserved.
-//
+      //
+      //  Device.swift
+      //  imHome
+      //
+      //  Created by Khiem ND on 2/9/18. Updated on 6/20/15.
+      //  Copyright (c) 2015 Alpha Labs, Inc. All rights reserved.
+      //
 
       import Foundation
 
